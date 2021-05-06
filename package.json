@@ -32,7 +32,7 @@
     "passport-local": "1.0.0",
     "request": "2.88.0",
     "slug": "1.0.0",
-    "underscore": "1.9.1",
+    "underscore": "1.12.1",
     "update-mongo": "0.0.4"
   }
 }
